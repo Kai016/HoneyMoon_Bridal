@@ -1,0 +1,313 @@
+
+.div {
+    background-color: #fff;
+  }
+  .div-2 {
+    background-color: #f6abb6;
+  }
+
+  .navbar-brand{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px !important;
+    padding-left: 10px;
+  }
+
+  .nav-link{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #8B305B !important;
+    background-color: #f6abb6;
+    font-size: 20px !important;
+    padding-left: 200px !important;
+}
+
+.nav-link:hover{
+    color: #430924 !important;
+}
+
+
+.container-fluid{
+ background-color: #f6abb6 !important;
+ padding: 10px !important;
+ display: flex !important;
+ align-items: center !important;
+ justify-content: center !important;
+}
+  
+  .img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 30px;
+    max-width: 100%;
+  }
+   
+    .div-9 {
+    background-color: #eee3e7;
+    padding-top: 10px;
+    }
+    @media (max-width: 1000px) {
+      .div-9 {
+        max-width: 100%;
+        margin-top: 40px;
+        padding: 0 20px;
+      }
+    }
+    .div-10 {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: #8b305b;
+      font-size: 40px;
+      text-align: center;
+    }
+    @media (max-width: 991px) {
+      .div-10 {
+        font-size: 40px;
+      }
+    }
+    .div-11 {
+      align-self: stretch;
+      margin-top: 154px;
+    }
+    @media (max-width: 991px) {
+      .div-11 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-12 {
+      gap: 20px;
+      display: flex;
+    }
+    @media (max-width: 991px) {
+      .div-12 {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+    }
+    .column {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 39%;
+      margin-left: 0px;
+    }
+    @media (max-width: 991px) {
+      .column {
+        width: 100%;
+      }
+    }
+    .img-2 {
+      object-fit: contain;
+      object-position: center;
+      width: 80%;
+      box-shadow: -10px 4px 2px 7px rgba(0, 0, 0, 0.25);
+      overflow: hidden;
+      flex-grow: 1;
+      border-radius: 20%;
+      margin-left: 60px;
+    }
+    @media (max-width: 991px) {
+      .img-2 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .column-2 {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 61%;
+      margin-left: 20px;
+    }
+    @media (max-width: 991px) {
+      .column-2 {
+        width: 100%;
+      }
+    }
+    .div-13 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8b305b;
+    font-size: 30px;
+    justify-content: center;
+    margin: auto;
+    }
+    @media (max-width: 991px) {
+      .div-13 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-14 {
+      align-self: stretch;
+      margin-top: 123px;
+    }
+    @media (max-width: 991px) {
+      .div-14 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-15 {
+      gap: 20px;
+      display: flex;
+    }
+    @media (max-width: 991px) {
+      .div-15 {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+    }
+    .column-3 {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 60%;
+      margin-left: 0px;
+    }
+    @media (max-width: 991px) {
+      .column-3 {
+        width: 100%;
+      }
+    }
+    .div-16 {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: #8b305b;
+      margin: auto;
+      text-align: left;
+      font-size: 30px;
+    }
+    @media (max-width: 991px) {
+      .div-16 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .column-4 {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 40%;
+      margin-left: 20px;
+    }
+    @media (max-width: 991px) {
+      .column-4 {
+        width: 100%;
+      }
+    }
+    .img-3 {
+      object-fit: contain;
+      object-position: center;
+      width: 80%;
+      box-shadow: 10px 4px 2px 7px rgba(0, 0, 0, 0.25);
+      overflow: hidden;
+      flex-grow: 1;
+      border-radius: 20%;
+    }
+    @media (max-width: 991px) {
+      .img-3 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-17 {
+      align-self: stretch;
+      margin: 151px 23px 82px;
+    }
+    @media (max-width: 991px) {
+      .div-17 {
+        max-width: 100%;
+        margin: 40px 10px 40px 0;
+      }
+    }
+    .div-18 {
+      gap: 20px;
+      display: flex;
+    }
+    @media (max-width: 991px) {
+      .div-18 {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+    }
+    .column-5 {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 41%;
+      margin-left: 0px;
+    }
+    @media (max-width: 991px) {
+      .column-5 {
+        width: 100%;
+      }
+    }
+    .img-4 {
+      object-fit: contain;
+      object-position: center;
+      width: 80%;
+      box-shadow: -10px 4px 2px 7px rgba(0, 0, 0, 0.25);
+      overflow: hidden;
+      flex-grow: 1;
+      border-radius: 20%;
+      margin-left: 60px;
+    }
+    @media (max-width: 991px) {
+      .img-4 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .column-6 {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 59%;
+      margin-left: 20px;
+    }
+    @media (max-width: 991px) {
+      .column-6 {
+        width: 100%;
+      }
+    }
+    .div-19 {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: #8b305b;
+      font-size: 30px;
+      justify-content: center;
+      margin: auto;
+      text-align: left;
+    }
+    @media (max-width: 991px) {
+      .div-19 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-20 {
+        background-color: #f6abb6;
+        align-self: stretch;
+        display: flex;
+        margin-top: 243px;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        padding: 28px 80px 50px;
+        font-size: x-large;
+        color: #8b305b;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+      }
+      @media (max-width: 991px) {
+        .div-15 {
+          max-width: 100%;
+          margin-top: 40px;
+          padding: 0 20px;
+        }
+      }
+
+ 
+
+  
